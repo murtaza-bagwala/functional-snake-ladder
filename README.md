@@ -21,4 +21,6 @@ And run html file
 
 ***Note*** :- Red lines are Snakes and Yellow lines are Ladders.
 
-![alt](game.png)
+
+https://user-images.githubusercontent.com/15953305/197952900-c7bf1fa2-df4d-49ad-a05b-d1081221b536.mov
+
